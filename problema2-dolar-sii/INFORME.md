@@ -3,7 +3,7 @@
 Cancelación y propagación del error con el dólar observado del SII (2022–2025)
 Universidad Católica del Maule — Laboratorio evaluado 1
 
-## 1. Metodología
+## 1. Metodologia
 
 **Norma de punto flotante** (sección 4 del enunciado): cada precio se aproxima a
 **2 cifras significativas totales** en base decimal (la "mantisa corta"), salvo en A3 y A4
